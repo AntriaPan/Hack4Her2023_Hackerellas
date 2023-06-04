@@ -50,5 +50,5 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions or inquiries, please contact me at antria_pan@outlook.com.
 
 
-![Project Screenshot](/logo_hackerellas.png)
+![Project Screenshot](assets/images/logo_hackerellas.png)
 
