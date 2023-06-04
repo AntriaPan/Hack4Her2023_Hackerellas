@@ -4,7 +4,7 @@
 
 ## Description
 
-This Google Colab notebook contains code for analyzing salary data. It focuses on exploring and visualizing salary trends in different companies and positions. The code processes the data, filters it based on gender and base salary, and generates various graphs to visualize the findings.
+This Google Colab notebook contains code for analyzing salary data. It focuses on exploring and visualizing salary trends in different companies and positions. The code processes the data, filters it based on gender and base salary, and generates various graphs to visualize the findings. All the data are from levels.fyi API (https://www.levels.fyi/js/salaryData.json)
 
 ## Contents
 
